@@ -1,0 +1,6 @@
+{
+	"appId": "com.fb_login.app",
+	"appName": "fb_login",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
